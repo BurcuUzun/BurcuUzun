@@ -1,7 +1,7 @@
 # Hi, I'm Burcu! 👋
 
 ### 🎓 About Me
-* 🏛️ **Computer Engineering Student** at Middle East Technical University (METU).
+* 🏛️ **Second Year Computer Engineering Student** at Middle East Technical University (METU).
 * 💻 Interested in **Low-level Programming**, **Numerical Analysis**, and **Data Science**.
 
 ### 🛠️ Technical Skills
