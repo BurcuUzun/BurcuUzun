@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Burcu! 👋
 
-<!--
-**BurcuUzun/BurcuUzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+* 🏛️ **Computer Engineering Student** at Middle East Technical University (METU).
+* 💻 Interested in **Low-level Programming**, **Numerical Analysis**, and **Data Science**.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+* **Languages:** Python, C, MATLAB
+* **Focus Areas:** Algorithm Design, Data Normalization, System Simulations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Work
+* [Academic Projects Portfolio](https://github.com/BurcuUzun/Academic-Projects) - A collection of my work in C and Python.
+
+---
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/burcu-uzun-00b4b6301/)
