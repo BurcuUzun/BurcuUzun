@@ -17,4 +17,4 @@ I am a software engineer focused on **Systems Programming** and **Algorithmic Op
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/burcu-uzun-00b4b6301/)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/burcu-uzun)
